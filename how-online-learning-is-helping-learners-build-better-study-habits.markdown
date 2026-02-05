@@ -1,7 +1,6 @@
 ---
 title: How Online Learning Is Helping Learners Build Better Study Habits
 date: 2026-02-05 07:33:00 Z
-published: false
 ---
 
 Learning is not only about understanding new topics. It is also about building good study habits. Many learners struggle not because the subject is difficult, but because they do not have a regular and healthy way of studying. Online learning has helped many people improve their study habits in a simple and practical way.
